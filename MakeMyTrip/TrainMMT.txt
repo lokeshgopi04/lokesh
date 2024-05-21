@@ -1,2 +1,9 @@
 Scenario1 : Booking a train  from chennai to delhi
 Scenario2: Cancel a train for goa to pune 
+
+Scenario3:
+Scenario4:
+
+
+Scenario 5:
+Scenario 6:
